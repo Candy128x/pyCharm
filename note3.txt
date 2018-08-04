@@ -1,0 +1,16 @@
+#180801
+
+GitHub
+https://github.com/Candy128x/pyCharmgit
+
+#^
+working branch:
+brnpycha
+working remote:
+remtpycha
+
+#Ooo..`o`
+working branch:
+brnpychao
+working remote:
+remtpychao
