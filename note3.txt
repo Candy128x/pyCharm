@@ -1,6 +1,4 @@
-Proj: pyCharm
 #180801
-Tech: python,
 
 GitHub
 https://github.com/Candy128x/pyCharmgit
@@ -13,6 +11,6 @@ remtpycha
 
 #Ooo..`o`
 working branch:
-brnpycha
+brnpychao
 working remote:
 remtpychao
